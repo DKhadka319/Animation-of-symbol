@@ -1,1 +1,1 @@
-# Animation-of-symbol
+# Roatating YinYang Symbol
